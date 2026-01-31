@@ -93,5 +93,10 @@
         "date": "2026-01-30T22:18:25",
         "timestamp": 1769811505.0,
         "total_ipv4_addresses_covered": 22906392
+    },
+    {
+        "date": "2026-01-31T22:16:17",
+        "timestamp": 1769897777.0,
+        "total_ipv4_addresses_covered": 22909417
     }
 ]
